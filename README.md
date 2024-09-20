@@ -1,4 +1,4 @@
-# Library Management
+# Library Management System
 
 Library Management using MERN is a full-stack web application that allows users to manage books, borrowers, and borrowing transactions in a library setting. It utilizes the MERN stack, which includes MongoDB for the database, Express.js for the server, React.js for the frontend, and Node.js for the backend. With this application, users can perform operations such as adding new books, tracking borrowed books, managing borrower details, and generating reports. The application provides an intuitive and user-friendly interface for efficient library management.
 
@@ -6,7 +6,7 @@ Library Management using MERN is a full-stack web application that allows users 
 
 **Client:** React, Redux
 
-**Server:** Node, Express , Passport JS , PassportJs
+**Server:** Node, Express , Passport JS 
 
 ## Features
 
@@ -23,13 +23,13 @@ Library Management using MERN is a full-stack web application that allows users 
 Clone the project
 
 ```bash
-  git clone https://github.com/AnuragRoshan/LibraryManagement.git
+  git clone https://github.com/modanas/Lib_Management.git
 ```
 
 move into LibraryManagement folder
 
 ```bash
-cd LibraryManagement
+cd Lib_Management
 ```
 
 move into server and install node dependencies for server side
